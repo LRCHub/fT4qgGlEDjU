@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Blackhole Dancehall",
+  "base_artist": "Midnight Grand Orchestra",
+  "createdAt": "2025-12-05T05:48:57.239525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blackhole Dancehall",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": true,
+      "path": "select/01_Blackhole_Dancehall_Midnight_Grand_Orchestra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blackhole Dancehall",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/pl_01_Blackhole_Dancehall_Midnight_Grand_Orchestra.txt"
+    }
+  ]
+}
